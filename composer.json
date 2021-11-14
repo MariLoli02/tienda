@@ -1,0 +1,20 @@
+{
+    "name": "mari_loli02/tienda",
+    "description": "Proyecto PHP tienda",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Tienda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mariloli02",
+            "email": "mariloli6327@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.16"
+    }
+}
